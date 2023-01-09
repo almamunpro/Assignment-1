@@ -5,6 +5,7 @@
 .header{
     background-image: url("../images/banner/banner3.png");
     background-repeat: no-repeat;
+    background-color: #005FAC;
     background-size: cover;
     display: flex;
     justify-content: right; 
