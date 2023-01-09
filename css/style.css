@@ -3,7 +3,7 @@
     color: black;
 }
 .header{
-    background-image: url(../images/banner/banner3.png);
+    background-image: url("..images/banner/banner3.png");
     background-color:hsla(120,100%,50%,0.3);
     background-repeat: no-repeat;
     background-size: cover;
