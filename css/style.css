@@ -3,7 +3,7 @@
     color: black;
 }
 .header{
-    background-image: url('..images/banner/banner3.png');
+    background-image: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -90,7 +90,7 @@
     width: 278px;
 }
 .forth-section{
-    background-image: url(/images/gradient1.png), url(/images/watch.png) ;
+    background-image: url(../images/gradient1.png), url(/images/watch.png) ;
     background-repeat: no-repeat;
     background-position: right, left;
     width: 1070px;
